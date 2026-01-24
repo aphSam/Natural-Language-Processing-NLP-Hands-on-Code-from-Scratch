@@ -105,5 +105,5 @@ This repository is built by **following and practicing the concepts taught in th
 **Narendra Tekale**  
 Aspiring Data Scientist | Machine Learning & NLP Enthusiast  
 
-🔗 **GitHub:** https://narendratekale.com/
+ **Portfolio:** https://narendratekale.com/
 
